@@ -1,0 +1,444 @@
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.Development.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.staticwebassets.runtime.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.exe
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.deps.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.runtimeconfig.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.pdb
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Humanizer.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.AssemblyReference.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfoInputs.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfo.cs
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CoreCompileInputs.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.MvcApplicationPartsAssemblyInfo.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.build.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.development.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\scopedcss\bundle\Project_API.styles.css
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CopyComplete
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\refint\Project_API.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.pdb
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.genruntimeconfig.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\ref\Project_API.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.Development.json
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.json
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.staticwebassets.runtime.json
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.exe
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.deps.json
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.runtimeconfig.json
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.pdb
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Humanizer.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.AssemblyReference.cache
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfoInputs.cache
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfo.cs
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CoreCompileInputs.cache
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.MvcApplicationPartsAssemblyInfo.cache
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\scopedcss\bundle\Project_API.styles.css
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CopyComplete
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\refint\Project_API.dll
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.pdb
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.genruntimeconfig.cache
+E:\Module-08\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\ref\Project_API.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.Development.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.staticwebassets.runtime.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.exe
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.deps.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.runtimeconfig.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.pdb
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Humanizer.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.AssemblyReference.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfoInputs.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfo.cs
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CoreCompileInputs.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.MvcApplicationPartsAssemblyInfo.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.build.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.development.json
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\scopedcss\bundle\Project_API.styles.css
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CopyComplete
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\refint\Project_API.dll
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.pdb
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.genruntimeconfig.cache
+E:\1267947_Anika_Arabi\Module 08\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\ref\Project_API.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.Development.json
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.json
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.staticwebassets.runtime.json
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.exe
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.deps.json
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.runtimeconfig.json
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.pdb
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Humanizer.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.AssemblyReference.cache
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfoInputs.cache
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfo.cs
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CoreCompileInputs.cache
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.MvcApplicationPartsAssemblyInfo.cache
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.build.json
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.development.json
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\scopedcss\bundle\Project_API.styles.css
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CopyComplete
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\refint\Project_API.dll
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.pdb
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.genruntimeconfig.cache
+E:\NewAngularProject\NewAngularProject\NewAngularProject\NewAngularProject\Project_Solution\Project_API\obj\Debug\net6.0\ref\Project_API.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.json
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.staticwebassets.runtime.json
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.exe
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.deps.json
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.runtimeconfig.json
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.pdb
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.AssemblyReference.cache
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfoInputs.cache
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfo.cs
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CoreCompileInputs.cache
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets\msbuild.Project_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_API.props
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_API.props
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_API.props
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\scopedcss\bundle\Project_API.styles.css
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CopyComplete
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\refint\Project_API.dll
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.pdb
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.genruntimeconfig.cache
+C:\Users\LAb104-01\Desktop\Project_Solution\Project_API\obj\Debug\net6.0\ref\Project_API.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.staticwebassets.runtime.json
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.exe
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.deps.json
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.runtimeconfig.json
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.pdb
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfo.cs
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\scopedcss\bundle\Project_API.styles.css
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CopyComplete
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\refint\Project_API.dll
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.pdb
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.genruntimeconfig.cache
+C:\Users\User\source\repos\Project_Solution\Project_API\obj\Debug\net6.0\ref\Project_API.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\appsettings.json
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.staticwebassets.runtime.json
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.exe
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.deps.json
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.runtimeconfig.json
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Project_API.pdb
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Humanizer.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jahid Sir\Project_Solution\Project_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.AssemblyReference.cache
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfoInputs.cache
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.AssemblyInfo.cs
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CoreCompileInputs.cache
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets\msbuild.Project_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Project_API.props
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project_API.props
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project_API.props
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\scopedcss\bundle\Project_API.styles.css
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.csproj.CopyComplete
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.dll
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\refint\Project_API.dll
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.pdb
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\Project_API.genruntimeconfig.cache
+D:\Jahid Sir\Project_Solution\Project_API\obj\Debug\net6.0\ref\Project_API.dll

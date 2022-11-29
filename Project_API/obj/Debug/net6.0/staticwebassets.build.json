@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "qjTI9DWz3GN3LMmtHEbZtVsBojtVXGpTSdYveKEiXNM=",
+  "Source": "Project_API",
+  "BasePath": "_content/Project_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Project_API\\wwwroot",
+      "Source": "Project_API",
+      "ContentRoot": "D:\\Jahid Sir\\Project_Solution\\Project_API\\wwwroot\\",
+      "BasePath": "_content/Project_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Jahid Sir\\Project_Solution\\Project_API\\wwwroot\\Pictures\\1.jpg",
+      "SourceId": "Project_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Jahid Sir\\Project_Solution\\Project_API\\wwwroot\\",
+      "BasePath": "_content/Project_API",
+      "RelativePath": "Pictures/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\1.jpg"
+    },
+    {
+      "Identity": "D:\\Jahid Sir\\Project_Solution\\Project_API\\wwwroot\\Pictures\\2.jpg",
+      "SourceId": "Project_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Jahid Sir\\Project_Solution\\Project_API\\wwwroot\\",
+      "BasePath": "_content/Project_API",
+      "RelativePath": "Pictures/2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\2.jpg"
+    },
+    {
+      "Identity": "D:\\Jahid Sir\\Project_Solution\\Project_API\\wwwroot\\Pictures\\3.jpg",
+      "SourceId": "Project_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Jahid Sir\\Project_Solution\\Project_API\\wwwroot\\",
+      "BasePath": "_content/Project_API",
+      "RelativePath": "Pictures/3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\3.jpg"
+    }
+  ]
+}
